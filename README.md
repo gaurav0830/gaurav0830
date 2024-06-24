@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **python,react**
 
-- 👨‍💻 All of my projects are available at [https://gaurav0830.github.io/portfolio-gaurav-2.0/](https://gaurav0830.github.io/portfolio-gaurav-2.0/)
+- 👨‍💻 All of my projects are available at [)
 
 - 📫 How to reach me **gauravr8402@gmail.com**
 
