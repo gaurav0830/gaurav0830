@@ -1,7 +1,7 @@
 <img src="about-me.png" alt="GitHub Banner" width="100%" height="400px" />
 
 # 💫 About Me:
-🔭 I’m currently working on HTML,CSS,TAILWIND CSS<br>🤝 I’m looking for help with Android Development<br>🌱 I’m currently learning REACT<br>
+🔭 I’m currently working on HTML,CSS,TAILWIND CSS<br>🤝 I’m looking for help with Android Development<br>🌱 I’m currently learning REACT<br>👨‍💻 All of my projects are available at <br>
 
 
 ## 🌐 Socials:
